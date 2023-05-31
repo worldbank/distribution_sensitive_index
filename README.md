@@ -10,7 +10,7 @@ Simple welfare indices such as mean income are ubiquitous but not distribution s
 
 All replication files are included in the .zip folder. 
 
-The raw input data are taken from [Mahler ⓡ Yonzan ⓡ Lakner (2022)](https://doi.org/10.1596/1813-9450-10198), based on the World Bank’s [Poverty and Inequality Platform](https://pip.worldbank.org/home) (version 20220909_2017_01_02_PROD). The raw input data are downloaded from [here](https://datacatalog.worldbank.org/search/dataset/0064304/1000-binned-global-distribution) as part of the replication code. 
+The raw input data are taken from [Mahler ⓡ Yonzan ⓡ Lakner (2022)](https://doi.org/10.1596/1813-9450-10198), based on the World Bank’s [Poverty and Inequality Platform](https://pip.worldbank.org/home) (version 20220909_2017_01_02_PROD). The raw input data are downloaded as part of the replication code. More details on how the raw input data are constructed are available [here](https://datacatalog.worldbank.org/search/dataset/0064304/1000-binned-global-distribution). 
 
 **Reference**
 
